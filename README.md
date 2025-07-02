@@ -14,9 +14,9 @@ Diseñar y desarrollar una aplicación Android funcional utilizando Jetpack Comp
 
 ## ✨ Funcionalidades Principales
 
-*   **✅ Validación de correo y contraseña
-*   **✅ Registro e inicio de sesión de usuarios (guardado con Room)
-*   **✅ Validación de correo y contraseña
-*   **✅ Pantalla de bienvenida
-*   **✅ Listado de libros locales y sugeridos desde API
-*   **✅ Agregar, editar y eliminar libros
+*   ✅ Validación de correo y contraseña
+*   ✅ Registro e inicio de sesión de usuarios (guardado con Room)
+*   ✅ Validación de correo y contraseña
+*   ✅ Pantalla de bienvenida
+*   ✅ Listado de libros locales y sugeridos desde API
+*   ✅ Agregar, editar y eliminar libros
